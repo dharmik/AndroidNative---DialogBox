@@ -20,4 +20,4 @@ That all comes from on single file . i create class for that and that all conten
 
 ## Special Thanks
 ==================
-http://www.androidhive.info/2011/09/how-to-show-alert-dialog-in-android/
+http://www.androidhive.info/2011/09/how-to-show-alert-dialog-in-android
